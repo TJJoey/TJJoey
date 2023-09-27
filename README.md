@@ -1,0 +1,2 @@
+![TJJoey's GitHub stats](https://github-readme-stats.vercel.app/api?username=TJJoey&theme=material-palenight&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TJJoey&theme=material-palenight)](https://github.com/TJJoey/github-readme-stats)
